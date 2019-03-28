@@ -3,7 +3,7 @@ html, body {
     margin: 0;
 }
 body {
-    background-image: url(/Users/samuelbarksdale/sei/sandbox/html-and-css/background.jpg);
+    background-image: url(images/background.jpg);
 }
 
 .wrapper {

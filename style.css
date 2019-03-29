@@ -97,3 +97,11 @@ footer {
 footer, .wrapper::after {
     height: 30px;
 }
+
+time {
+    color: Gray;
+}
+
+input {
+    margin-bottom: 5px;
+}
